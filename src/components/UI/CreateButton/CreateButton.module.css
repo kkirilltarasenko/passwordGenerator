@@ -1,0 +1,20 @@
+.createButton {
+    width: 200px;
+    height: 40px;
+
+    background: inherit;
+    border: 2px solid #61d161;
+    border-radius: 10px;
+    color: #044004;
+    padding: 5px 20px;
+
+    margin-top: 19px;
+
+    transition: color .2s linear;
+
+    cursor: pointer;
+}
+.createButton:hover {
+    background-color: #61d161;
+    color: ghostwhite;
+}
