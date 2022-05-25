@@ -10,4 +10,3 @@ This app will help you to create your own unique password, started from the easy
 <br><br>
 ![pGenApp](https://user-images.githubusercontent.com/75016013/167257378-89e0eb86-6954-4a2b-ad9f-b6d8aafdf245.png)
 <br><br>
-Enjoy :)
